@@ -1,0 +1,6 @@
+{
+  "browser": "",
+  "headless_mode": false,
+  "base_url": "https://www.adidas.co.uk",
+  "timeout": 10
+}
