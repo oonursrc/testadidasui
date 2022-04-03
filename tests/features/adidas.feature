@@ -5,7 +5,7 @@ Feature: Automate adidas webpage
         Then webpage title is <title>
         Examples:
             | browser   | title                       |
-            | firefox   | adidas Official Website UK  |
+            | chrome    | adidas Official Website UK  |
 
 
     Scenario Outline: Search for a product
