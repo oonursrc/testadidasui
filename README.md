@@ -1,5 +1,5 @@
 
-# jsonplaceholder
+# adidasui
 
 This project includes tests of Adidas UI.
 
